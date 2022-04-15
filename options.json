@@ -11,7 +11,7 @@
     "version": "v1.0",
     "remote_message": "",
     "force_stop_version":"v0.1,v0.2,v0.3,v0.4,v0.4.1",
-    "block_machine_id":"",
+    "block_machine_id":"Reading the ReadMe.pdf will prevent errors and let you know how each setting works",
     "block_ip":"",
     "discord_link":"https://discord.gg/Hn4uXaZ2JJ"
   }
