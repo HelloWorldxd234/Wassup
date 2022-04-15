@@ -1,0 +1,18 @@
+{
+  "launcher": {
+    "version": "v0.1",
+    "force_androbot_update": "false",
+    "remote_message": "",
+    "updates":"Lobby, champion select, loading screen, end of game), Bot now changes summoner spells  at level <=10 to Flash,Heal",
+    "force_stop": "false",
+    "download_link": "https://github.com/4ndrolab/system/releases/download/test/AndroBot.zip"
+},
+  "androbot": {
+    "version": "v0.5",
+    "remote_message": "Please make sure you have changed in-game settings to the one mentioned in the ReadMe",
+    "force_stop_version":"v0.1,v0.2,v0.3,v0.4,v0.4.1",
+    "block_machine_id":"",
+    "block_ip":"",
+    "discord_link":"https://discord.gg/Hn4uXaZ2JJ"
+  }
+}
