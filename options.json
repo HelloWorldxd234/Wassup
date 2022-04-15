@@ -9,7 +9,7 @@
 },
   "anchorbot": {
     "version": "v1.0",
-    "remote_message": "Please make sure you have changed in-game settings to the one mentioned in the ReadMe",
+    "remote_message": "",
     "force_stop_version":"v0.1,v0.2,v0.3,v0.4,v0.4.1",
     "block_machine_id":"",
     "block_ip":"",
