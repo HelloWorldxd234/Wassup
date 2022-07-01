@@ -12,7 +12,7 @@
     "remote_message": "",
     "force_stop_version":"v0.1,v0.2,v0.3,v0.4,v0.4.1",
     "block_machine_id":"123,124",
-    "block_ip":"test, test2",
+    "block_ip":"85.84.63.50, test2",
     "discord_link":"https://discord.gg/Hn4uXaZ2JJ"
   }
 }
