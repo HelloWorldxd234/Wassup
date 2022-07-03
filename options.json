@@ -8,7 +8,7 @@
     "download_link": "https://github.com/4ndrolab/system/releases/download/test/AndroBot.zip"
 },
   "anchorbot": {
-    "version": "v1.2.3",
+    "version": "v1.2.4",
     "remote_message": "",
     "force_stop_version":"v0.1,v0.2,v0.3,v0.4,v0.4.1",
     "block_machine_id":"123,124",
